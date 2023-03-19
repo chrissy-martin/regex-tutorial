@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Regex Tutorial: Validating the hexadecimal color code.
 
-Introductory paragraph (replace this with your text)
+This is a tutorial for showing you how to validate hexadecimal color code using Regex.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Regex Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
 ## Table of Contents
 
