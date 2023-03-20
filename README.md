@@ -16,7 +16,7 @@ This is a tutorial that explains how a specific regular expression, also known a
 
 ## Installation:
 
-Simply clone this repo and takea look at the gist.md
+
 
 ## Usage:
 
@@ -35,8 +35,7 @@ This application is covered by the MIT license.
 
 
 ## Contribution:
-
-undefined
+Feel free to contribute as desired.
 
 
 ## Testing:

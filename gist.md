@@ -14,7 +14,7 @@ This tutorial focuses on the hexadecimal color code. The hexadecimal color code,
 
 The regex of the hex color code that we are taking a look at is:  `/^#?([a-f0-9]{6}|[a-f0-9]{3})$/`
 
-This particular regex allows us to find any hex code, whether it begins with a numeral sign `#` or not, whether it has 6 or 3 characters (digits and leters) in it, and it also sppecifies that the letters contained are any lowercase letter between a-f.
+This particular regex allows us to find any hex code, whether it begins with a numeral sign `#` or not, and whether it has 6 or 3 characters (digits and leters) in it.
 
 
 
