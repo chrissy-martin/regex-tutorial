@@ -16,11 +16,15 @@ This is a tutorial that explains how a specific regular expression, also known a
 
 ## Installation:
 
-
+There are no installation instructions for this tutorial.
 
 ## Usage:
 
-This is a written tutorial. You can use this knowledge to troubleshoot any issues you may have witlh regex or this can help you get started in your regez process. 
+This is a written tutorial. You can use this knowledge to troubleshoot any issues you may have witlh regex or this can help you get started in your regez process. Find the tutorial on GitHub here: https://github.com/chrissy-martin/regex-tutorial/blob/main/gist.md
+
+
+![alt text](./resources/Preview%20gist-template.md%20-%20regex-tutorial%20-%20Visual%20Studio%20Code%203_19_2023%2010_01_47%20PM.png))
+![alt text](./resources/Preview%20gist-template.md%20-%20regex-tutorial%20-%20Visual%20Studio%20Code%203_19_2023%2010_02_04%20PM.png))
 
 ## License:
 
